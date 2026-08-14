@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open an issue by selecting one of the provided categories from the issue page",
+          "description": "and fill in the requested information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T18:32:02Z",
+            "owner": "ml-tooling",
+            "repo": "best-of-web-python",
+            "stars": 2751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modify the projects.yaml",
+          "description": "with your additions or changes, and submit a pull request. This can also be done directly via the Github UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T18:32:02Z",
+            "owner": "ml-tooling",
+            "repo": "best-of-web-python",
+            "stars": 2751
+          }
+        }
+      ],
+      "title": "Contribution"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:41:45.956Z",
+    "original_repository": "ml-tooling/best-of-web-python",
+    "original_repository_sha": "0ea7c0e5824b8be82ea0d958badc0aab165b6830",
+    "enhanced_repository": "enhansome/enhansome-best-of-web-python",
+    "enhanced_repository_description": null,
+    "title": "Awesome best of web python with stars"
+  }
+}
