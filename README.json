@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:",
+      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:\nIf you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the best-of-generator repository. If you like to create your own best-of list, we recommend to follow this guide.\nFor more information on how to add or update projects, please read the contribution guidelines. By participating in this project, you agree to abide by its Code of Conduct.",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327002257,
             "language": null,
             "last_commit": "2026-08-13T18:32:02Z",
             "owner": "ml-tooling",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327002257,
             "language": null,
             "last_commit": "2026-08-13T18:32:02Z",
             "owner": "ml-tooling",
@@ -33,16 +35,12 @@
         }
       ],
       "title": "Contribution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:42:18.174Z",
+    "last_updated": "2026-08-19T12:20:06.725Z",
     "original_repository": "ml-tooling/best-of-web-python",
+    "original_repository_id": 327002257,
     "original_repository_sha": "0ea7c0e5824b8be82ea0d958badc0aab165b6830",
     "enhanced_repository": "enhansome/enhansome-best-of-web-python",
     "enhanced_repository_description": null,
