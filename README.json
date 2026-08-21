@@ -12,7 +12,7 @@
             "archived": false,
             "id": 327002257,
             "language": null,
-            "last_commit": "2026-08-13T18:32:02Z",
+            "last_commit": "2026-08-20T21:41:23Z",
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
             "stars": 2750
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 327002257,
             "language": null,
-            "last_commit": "2026-08-13T18:32:02Z",
+            "last_commit": "2026-08-20T21:41:23Z",
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
             "stars": 2750
@@ -38,10 +38,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:40:42.160Z",
+    "last_updated": "2026-08-21T02:47:44.395Z",
     "original_repository": "ml-tooling/best-of-web-python",
     "original_repository_id": 327002257,
-    "original_repository_sha": "0ea7c0e5824b8be82ea0d958badc0aab165b6830",
+    "original_repository_sha": "c71597c614b7d661a0c9958d5ddffff14bf21aa2",
     "enhanced_repository": "enhansome/enhansome-best-of-web-python",
     "enhanced_repository_description": null,
     "title": "Awesome best of web python with stars"
