@@ -15,10 +15,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-19T22:44:16Z",
-            "open_issues": 535,
+            "open_issues": 538,
             "owner": "django",
             "repo": "django",
-            "stars": 91876,
+            "stars": 91886,
             "topics": [
               "apps",
               "django",
@@ -36,6 +36,35 @@
         },
         {
           "children": [],
+          "description": "The Python micro framework for building web applications. BSD-3",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "The Python micro framework for building web applications.",
+            "homepage": "https://flask.palletsprojects.com",
+            "id": 596892,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-10-30T15:05:22Z",
+            "open_issues": 4,
+            "owner": "pallets",
+            "repo": "flask",
+            "stars": 75300,
+            "topics": [
+              "flask",
+              "jinja",
+              "pallets",
+              "python",
+              "web-framework",
+              "werkzeug",
+              "wsgi"
+            ]
+          },
+          "title": "flask",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "FastAPI framework, high performance, easy to learn, fast to.. MIT",
           "node_type": "item",
           "repo_info": {
@@ -46,10 +75,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-18T19:14:19Z",
-            "open_issues": 50,
+            "open_issues": 49,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 104963,
+            "stars": 104988,
             "topics": [
               "api",
               "async",
@@ -69,35 +98,6 @@
           },
           "title": "fastapi",
           "first_seen": "2026-10-03T04:34:11.492Z"
-        },
-        {
-          "children": [],
-          "description": "The Python micro framework for building web applications. BSD-3",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "The Python micro framework for building web applications.",
-            "homepage": "https://flask.palletsprojects.com",
-            "id": 596892,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T15:05:22Z",
-            "open_issues": 4,
-            "owner": "pallets",
-            "repo": "flask",
-            "stars": 75294,
-            "topics": [
-              "flask",
-              "jinja",
-              "pallets",
-              "python",
-              "web-framework",
-              "werkzeug",
-              "wsgi"
-            ]
-          },
-          "title": "flask",
-          "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
           "children": [],
@@ -137,11 +137,11 @@
             "id": 301742,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T02:35:05Z",
-            "open_issues": 205,
+            "last_commit": "2026-11-21T03:23:15Z",
+            "open_issues": 202,
             "owner": "tornadoweb",
             "repo": "tornado",
-            "stars": 22174,
+            "stars": 22173,
             "topics": [
               "asynchronous",
               "python"
@@ -162,10 +162,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-14T06:11:08Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "Kludex",
             "repo": "starlette",
-            "stars": 12734,
+            "stars": 12742,
             "topics": [
               "asgi",
               "async",
@@ -192,7 +192,7 @@
             "open_issues": 58,
             "owner": "encode",
             "repo": "django-rest-framework",
-            "stars": 30254,
+            "stars": 30252,
             "topics": [
               "api",
               "django",
@@ -214,11 +214,11 @@
             "id": 59720190,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-29T03:09:51Z",
-            "open_issues": 165,
+            "last_commit": "2026-11-20T17:16:24Z",
+            "open_issues": 167,
             "owner": "sanic-org",
             "repo": "sanic",
-            "stars": 18636,
+            "stars": 18637,
             "topics": [
               "api-server",
               "asgi",
@@ -272,8 +272,8 @@
             "id": 7040500,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T21:28:35Z",
-            "open_issues": 166,
+            "last_commit": "2026-11-21T06:32:57Z",
+            "open_issues": 164,
             "owner": "falconry",
             "repo": "falcon",
             "stars": 9821,
@@ -324,8 +324,8 @@
             "id": 435625572,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T08:32:30Z",
-            "open_issues": 370,
+            "last_commit": "2026-11-20T19:23:05Z",
+            "open_issues": 363,
             "owner": "litestar-org",
             "repo": "litestar",
             "stars": 8565,
@@ -362,7 +362,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-16T18:02:38Z",
-            "open_issues": 279,
+            "open_issues": 280,
             "owner": "cherrypy",
             "repo": "cherrypy",
             "stars": 1949,
@@ -653,7 +653,7 @@
                 "open_issues": 189,
                 "owner": "hugapi",
                 "repo": "hug",
-                "stars": 6869,
+                "stars": 6868,
                 "topics": [
                   "command-line",
                   "falcon",
@@ -710,7 +710,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T03:37:34Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "Pylons",
                 "repo": "pyramid",
                 "stars": 4107,
@@ -882,10 +882,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T16:55:12Z",
-            "open_issues": 256,
+            "open_issues": 257,
             "owner": "psf",
             "repo": "requests",
-            "stars": 54731,
+            "stars": 54736,
             "topics": [
               "client",
               "cookies",
@@ -912,7 +912,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-14T21:45:32Z",
-            "open_issues": 285,
+            "open_issues": 287,
             "owner": "urllib3",
             "repo": "urllib3",
             "stars": 4085,
@@ -937,11 +937,11 @@
             "id": 13258039,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T11:08:43Z",
-            "open_issues": 330,
+            "last_commit": "2026-11-20T17:28:38Z",
+            "open_issues": 333,
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16620,
+            "stars": 16619,
             "topics": [
               "aiohttp",
               "async",
@@ -968,10 +968,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-16T19:43:14Z",
-            "open_issues": 146,
+            "open_issues": 149,
             "owner": "encode",
             "repo": "httpx",
-            "stars": 15812,
+            "stars": 15823,
             "topics": [
               "asyncio",
               "http",
@@ -1036,7 +1036,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-28T10:16:26Z",
-            "open_issues": 69,
+            "open_issues": 71,
             "owner": "httplib2",
             "repo": "httplib2",
             "stars": 513,
@@ -1091,7 +1091,7 @@
             "open_issues": 59,
             "owner": "twisted",
             "repo": "treq",
-            "stars": 603,
+            "stars": 604,
             "topics": [
               "http",
               "python",
@@ -1143,7 +1143,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-05-21T06:03:21Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "httpie",
                 "repo": "http-prompt",
                 "stars": 9107,
@@ -1185,7 +1185,7 @@
                 "open_issues": 11,
                 "owner": "spyoungtech",
                 "repo": "grequests",
-                "stars": 4567,
+                "stars": 4566,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:43.000Z"
@@ -1271,7 +1271,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-17T12:57:46Z",
-                "open_issues": 107,
+                "open_issues": 110,
                 "owner": "requests",
                 "repo": "toolbelt",
                 "stars": 1038,
@@ -1349,7 +1349,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-06T14:02:54Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "django",
             "repo": "asgiref",
             "stars": 1638,
@@ -1399,7 +1399,7 @@
             "open_issues": 29,
             "owner": "evansd",
             "repo": "whitenoise",
-            "stars": 2769,
+            "stars": 2770,
             "topics": [
               "django"
             ]
@@ -1660,10 +1660,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-18T18:24:18Z",
-            "open_issues": 73,
+            "open_issues": 76,
             "owner": "jpadilla",
             "repo": "pyjwt",
-            "stars": 5726,
+            "stars": 5727,
             "topics": [
               "hacktoberfest",
               "jwt",
@@ -1726,7 +1726,7 @@
             "open_issues": 2,
             "owner": "pennersr",
             "repo": "django-allauth",
-            "stars": 10384,
+            "stars": 10385,
             "topics": [
               "accounts",
               "authentication",
@@ -1789,7 +1789,7 @@
             "open_issues": 40,
             "owner": "django-guardian",
             "repo": "django-guardian",
-            "stars": 3920,
+            "stars": 3921,
             "topics": []
           },
           "title": "django-guardian",
@@ -1944,7 +1944,7 @@
             "open_issues": 11,
             "owner": "fastapi-users",
             "repo": "fastapi-users",
-            "stars": 6262,
+            "stars": 6264,
             "topics": [
               "async",
               "asyncio",
@@ -1990,8 +1990,8 @@
             "id": 42185087,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T01:05:53Z",
-            "open_issues": 39,
+            "last_commit": "2026-11-20T14:37:49Z",
+            "open_issues": 37,
             "owner": "django-commons",
             "repo": "django-rest-knox",
             "stars": 1268,
@@ -2533,10 +2533,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-19T11:44:21Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "lxml",
             "repo": "lxml",
-            "stars": 3075,
+            "stars": 3076,
             "topics": []
           },
           "title": "lxml",
@@ -2586,7 +2586,7 @@
             "open_issues": 0,
             "owner": "mozilla",
             "repo": "bleach",
-            "stars": 2762,
+            "stars": 2763,
             "topics": []
           },
           "title": "bleach",
@@ -2604,10 +2604,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-19T14:56:37Z",
-            "open_issues": 149,
+            "open_issues": 150,
             "owner": "Kozea",
             "repo": "WeasyPrint",
-            "stars": 9801,
+            "stars": 9802,
             "topics": [
               "converter",
               "css",
@@ -2635,7 +2635,7 @@
             "open_issues": 6,
             "owner": "xhtml2pdf",
             "repo": "xhtml2pdf",
-            "stars": 2400,
+            "stars": 2401,
             "topics": [
               "html-pdf",
               "html-pdf-converter",
@@ -2749,7 +2749,7 @@
                 "open_issues": 240,
                 "owner": "psf",
                 "repo": "requests-html",
-                "stars": 13798,
+                "stars": 13797,
                 "topics": [
                   "beautifulsoup",
                   "css-selectors",
@@ -2864,7 +2864,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-19T23:10:28Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "gruns",
             "repo": "furl",
             "stars": 2813,
@@ -3003,10 +3003,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T04:21:24Z",
-            "open_issues": 5888,
+            "open_issues": 5890,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26864,
+            "stars": 26866,
             "topics": [
               "api",
               "api-client",
@@ -3104,8 +3104,8 @@
             "id": 189179081,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T09:00:50Z",
-            "open_issues": 108,
+            "last_commit": "2026-11-21T08:24:01Z",
+            "open_issues": 112,
             "owner": "datamodel-code-generator",
             "repo": "datamodel-code-generator",
             "stars": 4062,
@@ -3198,43 +3198,6 @@
         },
         {
           "children": [],
-          "description": "Swagger UI is a collection of HTML, JavaScript, and CSS.. Apache-2",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
-            "homepage": "https://swagger.io",
-            "id": 2055965,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-20T09:02:41Z",
-            "open_issues": 1167,
-            "owner": "swagger-api",
-            "repo": "swagger-ui",
-            "stars": 29089,
-            "topics": [
-              "hacktoberfest",
-              "oas",
-              "open-source",
-              "openapi",
-              "openapi-specification",
-              "openapi3",
-              "openapi31",
-              "openapi32",
-              "rest",
-              "rest-api",
-              "swagger",
-              "swagger-api",
-              "swagger-client",
-              "swagger-oss",
-              "swagger-ui"
-            ]
-          },
-          "title": "swagger-ui",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
           "description": "OpenAPI 2.0 (aka Swagger) and OpenAPI 3 spec validator. Apache-2",
           "node_type": "item",
           "repo_info": {
@@ -3268,60 +3231,39 @@
         },
         {
           "children": [],
-          "description": "OpenAPI/Swagger-generated API Reference Documentation. MIT",
+          "description": "Swagger UI is a collection of HTML, JavaScript, and CSS.. Apache-2",
           "node_type": "item",
           "repo_info": {
             "archived": false,
-            "description": "📘  OpenAPI/Swagger-generated API Reference Documentation",
-            "homepage": "https://redocly.github.io/redoc/",
-            "id": 45250726,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-11-19T11:11:41Z",
-            "open_issues": 271,
-            "owner": "Redocly",
-            "repo": "redoc",
-            "stars": 26021,
+            "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+            "homepage": "https://swagger.io",
+            "id": 2055965,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-20T10:42:53Z",
+            "open_issues": 1168,
+            "owner": "swagger-api",
+            "repo": "swagger-ui",
+            "stars": 29089,
             "topics": [
-              "api-documentation",
-              "documentation-generator",
-              "documentation-tool",
               "hacktoberfest",
+              "oas",
+              "open-source",
               "openapi",
               "openapi-specification",
               "openapi3",
               "openapi31",
-              "reactjs",
-              "redoc",
-              "swagger"
+              "openapi32",
+              "rest",
+              "rest-api",
+              "swagger",
+              "swagger-api",
+              "swagger-client",
+              "swagger-oss",
+              "swagger-ui"
             ]
           },
-          "title": "redoc",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "The Web API toolkit. BSD-3",
-          "node_type": "item",
-          "repo_info": {
-            "archived": true,
-            "description": "The Web API toolkit. 🛠",
-            "homepage": "https://docs.apistar.com",
-            "id": 85328233,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2022-02-24T05:00:58Z",
-            "open_issues": 30,
-            "owner": "encode",
-            "repo": "apistar",
-            "stars": 5534,
-            "topics": [
-              "api",
-              "python",
-              "rest"
-            ]
-          },
-          "title": "apistar",
+          "title": "swagger-ui",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -3356,6 +3298,64 @@
           },
           "title": "openapi-core",
           "first_seen": "2026-10-03T04:34:11.492Z"
+        },
+        {
+          "children": [],
+          "description": "OpenAPI/Swagger-generated API Reference Documentation. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "📘  OpenAPI/Swagger-generated API Reference Documentation",
+            "homepage": "https://redocly.github.io/redoc/",
+            "id": 45250726,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-20T09:39:04Z",
+            "open_issues": 270,
+            "owner": "Redocly",
+            "repo": "redoc",
+            "stars": 26023,
+            "topics": [
+              "api-documentation",
+              "documentation-generator",
+              "documentation-tool",
+              "hacktoberfest",
+              "openapi",
+              "openapi-specification",
+              "openapi3",
+              "openapi31",
+              "reactjs",
+              "redoc",
+              "swagger"
+            ]
+          },
+          "title": "redoc",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
+          "description": "The Web API toolkit. BSD-3",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "description": "The Web API toolkit. 🛠",
+            "homepage": "https://docs.apistar.com",
+            "id": 85328233,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2022-02-24T05:00:58Z",
+            "open_issues": 30,
+            "owner": "encode",
+            "repo": "apistar",
+            "stars": 5535,
+            "topics": [
+              "api",
+              "python",
+              "rest"
+            ]
+          },
+          "title": "apistar",
+          "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
           "children": [],
@@ -3397,6 +3397,32 @@
         },
         {
           "children": [],
+          "description": "Pyramid addon for OpenAPI3 validation of requests and.. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Pyramid addon for OpenAPI3 validation of requests and responses.",
+            "homepage": "https://pypi.org/project/pyramid-openapi3/",
+            "id": 138299589,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-13T05:02:52Z",
+            "open_issues": 18,
+            "owner": "Pylons",
+            "repo": "pyramid_openapi3",
+            "stars": 84,
+            "topics": [
+              "openapi3",
+              "pyramid",
+              "pyramid-framework",
+              "python"
+            ]
+          },
+          "title": "pyramid_openapi3",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "swagger-codegen contains a template-driven engine to.. Apache-2",
           "node_type": "item",
           "repo_info": {
@@ -3423,32 +3449,6 @@
             ]
           },
           "title": "swagger-codegen",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "Pyramid addon for OpenAPI3 validation of requests and.. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Pyramid addon for OpenAPI3 validation of requests and responses.",
-            "homepage": "https://pypi.org/project/pyramid-openapi3/",
-            "id": 138299589,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-13T05:02:52Z",
-            "open_issues": 18,
-            "owner": "Pylons",
-            "repo": "pyramid_openapi3",
-            "stars": 84,
-            "topics": [
-              "openapi3",
-              "pyramid",
-              "pyramid-framework",
-              "python"
-            ]
-          },
-          "title": "pyramid_openapi3",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -3500,7 +3500,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-06-17T23:38:25Z",
-                "open_issues": 287,
+                "open_issues": 288,
                 "owner": "flasgger",
                 "repo": "flasgger",
                 "stars": 3743,
@@ -3536,10 +3536,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T16:44:27Z",
-                "open_issues": 218,
+                "open_issues": 219,
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
-                "stars": 3546,
+                "stars": 3545,
                 "topics": [
                   "coreapi",
                   "django",
@@ -3653,7 +3653,7 @@
             "open_issues": 196,
             "owner": "graphql",
             "repo": "graphql-spec",
-            "stars": 14595,
+            "stars": 14596,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:43.000Z"
@@ -3845,7 +3845,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-04T15:43:44Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "graphql-python",
                 "repo": "graphene",
                 "stars": 8239,
@@ -4098,7 +4098,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T22:31:51Z",
-            "open_issues": 42,
+            "open_issues": 44,
             "owner": "websocket-client",
             "repo": "websocket-client",
             "stars": 3710,
@@ -4191,7 +4191,7 @@
             "open_issues": 44,
             "owner": "django",
             "repo": "daphne",
-            "stars": 2687,
+            "stars": 2688,
             "topics": []
           },
           "title": "daphne",
@@ -4421,11 +4421,11 @@
             "id": 27729880,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T08:13:08Z",
-            "open_issues": 1387,
+            "last_commit": "2026-11-20T23:24:13Z",
+            "open_issues": 1389,
             "owner": "grpc",
             "repo": "grpc",
-            "stars": 45463,
+            "stars": 45459,
             "topics": []
           },
           "title": "grpc",
@@ -4582,7 +4582,7 @@
             "open_issues": 686,
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11812,
+            "stars": 11811,
             "topics": [
               "api-gateway",
               "aws-lambda",
@@ -4715,11 +4715,11 @@
             "id": 16479108,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T10:34:58Z",
-            "open_issues": 1016,
+            "last_commit": "2026-11-20T12:06:38Z",
+            "open_issues": 1014,
             "owner": "wagtail",
             "repo": "wagtail",
-            "stars": 20726,
+            "stars": 20723,
             "topics": [
               "cms",
               "django",
@@ -4870,11 +4870,11 @@
             "id": 7613257,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T09:02:43Z",
-            "open_issues": 189,
+            "last_commit": "2026-11-21T00:17:48Z",
+            "open_issues": 181,
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34600,
+            "stars": 34602,
             "topics": [
               "dotnet",
               "java",
@@ -4900,8 +4900,8 @@
             "id": 138421996,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T11:30:24Z",
-            "open_issues": 333,
+            "last_commit": "2026-11-20T20:32:15Z",
+            "open_issues": 331,
             "owner": "coveragepy",
             "repo": "coveragepy",
             "stars": 3433,
@@ -4922,10 +4922,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T15:44:30Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28305,
+            "stars": 28307,
             "topics": [
               "benchmarking",
               "http",
@@ -4955,10 +4955,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-19T11:59:34Z",
-            "open_issues": 560,
+            "open_issues": 563,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 47101,
+            "stars": 47118,
             "topics": [
               "debugging",
               "http",
@@ -4987,11 +4987,11 @@
             "id": 276414382,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T01:05:48Z",
+            "last_commit": "2026-11-20T16:41:35Z",
             "open_issues": 0,
             "owner": "microsoft",
             "repo": "playwright-python",
-            "stars": 15119,
+            "stars": 15120,
             "topics": [
               "chromium",
               "firefox",
@@ -5014,7 +5014,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T20:17:07Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "getsentry",
             "repo": "responses",
             "stars": 4342,
@@ -5037,7 +5037,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-17T13:33:59Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "kevin1024",
             "repo": "vcrpy",
             "stars": 3024,
@@ -5053,7 +5053,7 @@
         },
         {
           "children": [],
-          "description": "Automate browsers without limits. SeleniumBase CDP Mode bypasses.. MIT",
+          "description": "Fast and reliable browser automation for e2e testing, scraping, and.. MIT",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5062,11 +5062,11 @@
             "id": 17420614,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T06:44:19Z",
+            "last_commit": "2026-11-21T05:27:21Z",
             "open_issues": 14,
             "owner": "seleniumbase",
             "repo": "SeleniumBase",
-            "stars": 13271,
+            "stars": 13272,
             "topics": [
               "bot-detection",
               "cdp",
@@ -5101,7 +5101,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T17:46:23Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "jazzband",
             "repo": "django-silk",
             "stars": 5005,
@@ -5137,11 +5137,11 @@
             "id": 203157084,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T04:23:44Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-20T20:58:36Z",
+            "open_issues": 20,
             "owner": "schemathesis",
             "repo": "schemathesis",
-            "stars": 3794,
+            "stars": 3796,
             "topics": [
               "api",
               "api-testing",
@@ -5242,7 +5242,7 @@
             "open_issues": 153,
             "owner": "miyakogi",
             "repo": "pyppeteer",
-            "stars": 3545,
+            "stars": 3544,
             "topics": [
               "browser-automation",
               "headless-chrome",
@@ -5250,6 +5250,27 @@
             ]
           },
           "title": "pyppeteer",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
+          "description": "Django test runner using nose. BSD-3",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Django test runner using nose",
+            "homepage": "http://pypi.python.org/pypi/django-nose",
+            "id": 323683,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-17T18:31:33Z",
+            "open_issues": 102,
+            "owner": "django-nose",
+            "repo": "django-nose",
+            "stars": 882,
+            "topics": []
+          },
+          "title": "django-nose",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -5342,7 +5363,7 @@
             "open_issues": 9,
             "owner": "model-bakers",
             "repo": "model_bakery",
-            "stars": 1008,
+            "stars": 1009,
             "topics": [
               "django",
               "fixtures",
@@ -5399,7 +5420,7 @@
             "open_issues": 55,
             "owner": "mherrmann",
             "repo": "helium",
-            "stars": 8334,
+            "stars": 8333,
             "topics": [
               "chrome",
               "firefox",
@@ -5415,33 +5436,6 @@
           },
           "title": "selenium-python-helium",
           "first_seen": "2026-10-03T04:34:11.492Z"
-        },
-        {
-          "children": [],
-          "description": "Integration layer between Requests and Selenium for automation of.. BSD-3",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Integration layer between Requests and Selenium for automation of web actions.",
-            "homepage": null,
-            "id": 95916519,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T05:12:49Z",
-            "open_issues": 0,
-            "owner": "lordjabez",
-            "repo": "requestium",
-            "stars": 1835,
-            "topics": [
-              "interface",
-              "python",
-              "requests",
-              "selenium",
-              "web-automation"
-            ]
-          },
-          "title": "requestium",
-          "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
           "children": [],
@@ -5547,6 +5541,33 @@
         },
         {
           "children": [],
+          "description": "Integration layer between Requests and Selenium for automation.. BSD-3",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Integration layer between Requests and Selenium for automation of web actions.",
+            "homepage": null,
+            "id": 95916519,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-16T05:12:49Z",
+            "open_issues": 0,
+            "owner": "lordjabez",
+            "repo": "requestium",
+            "stars": 1835,
+            "topics": [
+              "interface",
+              "python",
+              "requests",
+              "selenium",
+              "web-automation"
+            ]
+          },
+          "title": "requestium",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "Mockoon is the easiest and quickest way to run mock APIs locally. No.. MIT",
           "node_type": "item",
           "repo_info": {
@@ -5556,11 +5577,11 @@
             "id": 97478419,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T06:46:44Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-20T23:55:17Z",
+            "open_issues": 36,
             "owner": "mockoon",
             "repo": "mockoon",
-            "stars": 8493,
+            "stars": 8494,
             "topics": [
               "api",
               "application",
@@ -5600,7 +5621,7 @@
             "open_issues": 25,
             "owner": "fsociety-team",
             "repo": "fsociety",
-            "stars": 1885,
+            "stars": 1886,
             "topics": [
               "cli",
               "docker",
@@ -5632,7 +5653,7 @@
                 "open_issues": 260,
                 "owner": "apiaryio",
                 "repo": "dredd",
-                "stars": 4209,
+                "stars": 4208,
                 "topics": [
                   "api",
                   "api-blueprint",
@@ -5743,7 +5764,7 @@
                 "open_issues": 57,
                 "owner": "cobrateam",
                 "repo": "splinter",
-                "stars": 2749,
+                "stars": 2748,
                 "topics": [
                   "automation",
                   "hacktoberfest",
@@ -5770,7 +5791,7 @@
                 "open_issues": 66,
                 "owner": "flipkart-incubator",
                 "repo": "Astra",
-                "stars": 2674,
+                "stars": 2675,
                 "topics": [
                   "ci-cd",
                   "owasp",
@@ -5826,7 +5847,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-06-09T14:37:11Z",
-                "open_issues": 130,
+                "open_issues": 131,
                 "owner": "gabrielfalcao",
                 "repo": "HTTPretty",
                 "stars": 2146,
@@ -5881,7 +5902,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-01T00:53:51Z",
-                "open_issues": 198,
+                "open_issues": 199,
                 "owner": "pytest-dev",
                 "repo": "pytest-django",
                 "stars": 1549,
@@ -5940,27 +5961,6 @@
                   "testing",
                   "testing-tools"
                 ]
-              },
-              "first_seen": "2026-08-28T13:19:43.000Z"
-            },
-            {
-              "node_type": "item",
-              "title": "django-nose",
-              "description": "Django test runner using nose. BSD-3",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Django test runner using nose",
-                "homepage": "http://pypi.python.org/pypi/django-nose",
-                "id": 323683,
-                "language": "Python",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-11-17T18:31:33Z",
-                "open_issues": 102,
-                "owner": "django-nose",
-                "repo": "django-nose",
-                "stars": 882,
-                "topics": []
               },
               "first_seen": "2026-08-28T13:19:43.000Z"
             },
@@ -6203,7 +6203,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 25 hidden projects..."
+          "title": "Show 24 hidden projects..."
         }
       ],
       "title": "Web Testing"
@@ -6230,27 +6230,6 @@
             "topics": []
           },
           "title": "django-crispy-forms",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "A set of high-level abstractions for Django forms. BSD-3",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A set of high-level abstractions for Django forms",
-            "homepage": "https://django-formtools.readthedocs.io",
-            "id": 24818563,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-10-21T20:07:40Z",
-            "open_issues": 87,
-            "owner": "django-commons",
-            "repo": "django-formtools",
-            "stars": 880,
-            "topics": []
-          },
-          "title": "django-formtools",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -6352,7 +6331,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T16:43:46Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "executablebooks",
             "repo": "markdown-it-py",
             "stars": 1398,
@@ -6376,8 +6355,8 @@
             "id": 26947860,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T23:46:16Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-20T18:44:07Z",
+            "open_issues": 18,
             "owner": "facelessuser",
             "repo": "pymdown-extensions",
             "stars": 1134,
@@ -6404,7 +6383,7 @@
             "open_issues": 127,
             "owner": "getpelican",
             "repo": "pelican",
-            "stars": 13379,
+            "stars": 13378,
             "topics": [
               "pelican",
               "python",
@@ -6447,7 +6426,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T10:01:44Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "miyuchina",
             "repo": "mistletoe",
             "stars": 1067,
@@ -6543,7 +6522,7 @@
                 "open_issues": 125,
                 "owner": "joeyespo",
                 "repo": "grip",
-                "stars": 6847,
+                "stars": 6848,
                 "topics": [
                   "commandline-interface",
                   "flask",
@@ -6568,7 +6547,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2025-10-28T11:03:41Z",
-                "open_issues": 119,
+                "open_issues": 122,
                 "owner": "Alir3z4",
                 "repo": "html2text",
                 "stars": 2174,
@@ -6624,11 +6603,11 @@
             "id": 54346799,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T19:27:01Z",
-            "open_issues": 2810,
+            "last_commit": "2026-11-20T19:42:29Z",
+            "open_issues": 2813,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 500398,
+            "stars": 500548,
             "topics": [
               "api",
               "apis",
@@ -6663,7 +6642,7 @@
             "open_issues": 59,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23876,
+            "stars": 23877,
             "topics": [
               "automl",
               "chatgpt",
@@ -6686,27 +6665,6 @@
               "transformer"
             ]
           },
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "The official Python client library for Googles.. Apache-2",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "🐍 The official Python client library for Google's discovery based APIs.",
-            "homepage": "https://googleapis.github.io/google-api-python-client/docs/",
-            "id": 15749269,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-17T07:45:16Z",
-            "open_issues": 57,
-            "owner": "googleapis",
-            "repo": "google-api-python-client",
-            "stars": 8975,
-            "topics": []
-          },
-          "title": "google-api-python-client",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -6740,6 +6698,27 @@
         },
         {
           "children": [],
+          "description": "The official Python client library for Googles.. Apache-2",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "🐍 The official Python client library for Google's discovery based APIs.",
+            "homepage": "https://googleapis.github.io/google-api-python-client/docs/",
+            "id": 15749269,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-17T07:45:16Z",
+            "open_issues": 58,
+            "owner": "googleapis",
+            "repo": "google-api-python-client",
+            "stars": 8976,
+            "topics": []
+          },
+          "title": "google-api-python-client",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "GitPython is a python library used to interact with Git repositories. BSD-3",
           "node_type": "item",
           "repo_info": {
@@ -6749,11 +6728,11 @@
             "id": 1126087,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T11:45:14Z",
+            "last_commit": "2026-11-20T16:22:39Z",
             "open_issues": 1,
             "owner": "gitpython-developers",
             "repo": "GitPython",
-            "stars": 5193,
+            "stars": 5194,
             "topics": [
               "git-plumbing",
               "git-porcelain",
@@ -6774,11 +6753,11 @@
             "id": 3544490,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-19T18:57:44Z",
+            "last_commit": "2026-11-20T14:20:53Z",
             "open_issues": 407,
             "owner": "PyGithub",
             "repo": "PyGithub",
-            "stars": 7819,
+            "stars": 7821,
             "topics": [
               "github",
               "github-api",
@@ -6825,7 +6804,7 @@
             "open_issues": 42,
             "owner": "python-telegram-bot",
             "repo": "python-telegram-bot",
-            "stars": 29608,
+            "stars": 29613,
             "topics": [
               "bot",
               "chatbot",
@@ -6835,35 +6814,6 @@
             ]
           },
           "title": "python-telegram-bot",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "An API wrapper for Discord written in Python. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "An API wrapper for Discord written in Python.",
-            "homepage": "http://discordpy.rtfd.org/en/latest",
-            "id": 41179827,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-07T18:11:46Z",
-            "open_issues": 190,
-            "owner": "Rapptz",
-            "repo": "discord.py",
-            "stars": 16213,
-            "topics": [
-              "bot",
-              "discord",
-              "discord-api",
-              "discord-bot",
-              "discord-py",
-              "python",
-              "python-3"
-            ]
-          },
-          "title": "discord.py",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -6889,6 +6839,35 @@
             ]
           },
           "title": "tweepy",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
+          "description": "An API wrapper for Discord written in Python. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "An API wrapper for Discord written in Python.",
+            "homepage": "http://discordpy.rtfd.org/en/latest",
+            "id": 41179827,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-07T18:11:46Z",
+            "open_issues": 190,
+            "owner": "Rapptz",
+            "repo": "discord.py",
+            "stars": 16216,
+            "topics": [
+              "bot",
+              "discord",
+              "discord-api",
+              "discord-bot",
+              "discord-py",
+              "python",
+              "python-3"
+            ]
+          },
+          "title": "discord.py",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -6957,8 +6936,8 @@
             "id": 26456792,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T05:54:04Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-20T19:34:05Z",
+            "open_issues": 68,
             "owner": "slackapi",
             "repo": "python-slack-sdk",
             "stars": 4018,
@@ -6989,11 +6968,11 @@
             "id": 1953389,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T23:02:50Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-20T22:16:09Z",
+            "open_issues": 36,
             "owner": "stripe",
             "repo": "stripe-python",
-            "stars": 2058,
+            "stars": 2059,
             "topics": [
               "stripe",
               "stripe-sdk"
@@ -7017,7 +6996,7 @@
             "open_issues": 765,
             "owner": "pytube",
             "repo": "pytube",
-            "stars": 13207,
+            "stars": 13208,
             "topics": [
               "python",
               "youtube",
@@ -7038,7 +7017,7 @@
             "id": 847957,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-16T23:36:41Z",
+            "last_commit": "2026-11-20T09:10:40Z",
             "open_issues": 1,
             "owner": "praw-dev",
             "repo": "praw",
@@ -7057,6 +7036,31 @@
         },
         {
           "children": [],
+          "description": "A Python module for communicating with the Twilio API and generating.. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "A Python module for communicating with the Twilio API and generating TwiML.",
+            "homepage": null,
+            "id": 307447,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-17T10:43:29Z",
+            "open_issues": 90,
+            "owner": "twilio",
+            "repo": "twilio-python",
+            "stars": 2087,
+            "topics": [
+              "twilio",
+              "twilio-api",
+              "twiml"
+            ]
+          },
+          "title": "twilio",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "Command-line program to download videos from YouTube.com.. Unlicense",
           "node_type": "item",
           "repo_info": {
@@ -7070,7 +7074,7 @@
             "open_issues": 4114,
             "owner": "ytdl-org",
             "repo": "youtube-dl",
-            "stars": 141618,
+            "stars": 141623,
             "topics": []
           },
           "title": "youtube-dl",
@@ -7103,6 +7107,37 @@
         },
         {
           "children": [],
+          "description": "Command-line program to download image galleries and collections.. ❗️GPL-2.0",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Command-line program to download image galleries and collections from several image hosting sites",
+            "homepage": "https://discord.gg/rSzQwRvGnE",
+            "id": 25129800,
+            "language": "Python",
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-14T11:18:55Z",
+            "open_issues": 1052,
+            "owner": "mikf",
+            "repo": "gallery-dl",
+            "stars": 20586,
+            "topics": [
+              "danbooru",
+              "deviantart",
+              "downloader",
+              "gallery",
+              "kemono",
+              "mangadex",
+              "pixiv",
+              "tumblr",
+              "twitter"
+            ]
+          },
+          "title": "gallery-dl",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "Slack Developer Kit for Python. MIT",
           "node_type": "item",
           "repo_info": {
@@ -7112,8 +7147,8 @@
             "id": 26456792,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T05:54:04Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-20T19:34:05Z",
+            "open_issues": 68,
             "owner": "slackapi",
             "repo": "python-slack-sdk",
             "stars": 4018,
@@ -7135,31 +7170,6 @@
         },
         {
           "children": [],
-          "description": "A Python module for communicating with the Twilio API and generating TwiML. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A Python module for communicating with the Twilio API and generating TwiML.",
-            "homepage": null,
-            "id": 307447,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-17T10:43:29Z",
-            "open_issues": 90,
-            "owner": "twilio",
-            "repo": "twilio-python",
-            "stars": 2087,
-            "topics": [
-              "twilio",
-              "twilio-api",
-              "twiml"
-            ]
-          },
-          "title": "twilio",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
           "description": "Hunt down social media accounts by username across social networks. MIT",
           "node_type": "item",
           "repo_info": {
@@ -7169,11 +7179,11 @@
             "id": 162998479,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T05:13:48Z",
-            "open_issues": 419,
+            "last_commit": "2026-11-21T05:13:20Z",
+            "open_issues": 420,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 114802,
+            "stars": 115208,
             "topics": [
               "cli",
               "cti",
@@ -7198,37 +7208,6 @@
         },
         {
           "children": [],
-          "description": "Command-line program to download image galleries and collections.. ❗️GPL-2.0",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Command-line program to download image galleries and collections from several image hosting sites",
-            "homepage": "https://discord.gg/rSzQwRvGnE",
-            "id": 25129800,
-            "language": "Python",
-            "license": "GPL-2.0",
-            "last_commit": "2026-11-14T11:18:55Z",
-            "open_issues": 1051,
-            "owner": "mikf",
-            "repo": "gallery-dl",
-            "stars": 20576,
-            "topics": [
-              "danbooru",
-              "deviantart",
-              "downloader",
-              "gallery",
-              "kemono",
-              "mangadex",
-              "pixiv",
-              "tumblr",
-              "twitter"
-            ]
-          },
-          "title": "gallery-dl",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
           "description": "TuShare is a utility for crawling historical data of China stocks. BSD-3",
           "node_type": "item",
           "repo_info": {
@@ -7242,7 +7221,7 @@
             "open_issues": 802,
             "owner": "waditu",
             "repo": "tushare",
-            "stars": 15505,
+            "stars": 15506,
             "topics": [
               "finance",
               "fintech",
@@ -7348,11 +7327,11 @@
             "id": 1488139,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T22:51:27Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-21T03:25:24Z",
+            "open_issues": 20,
             "owner": "thumbor",
             "repo": "thumbor",
-            "stars": 10529,
+            "stars": 10530,
             "topics": [
               "avif",
               "crop-image",
@@ -7385,7 +7364,7 @@
             "open_issues": 11,
             "owner": "ssut",
             "repo": "py-googletrans",
-            "stars": 4304,
+            "stars": 4303,
             "topics": []
           },
           "title": "py-googletrans",
@@ -7427,7 +7406,7 @@
             "open_issues": 66,
             "owner": "hardikvasa",
             "repo": "google-images-download",
-            "stars": 8704,
+            "stars": 8703,
             "topics": [
               "color-filter",
               "command-line",
@@ -7464,7 +7443,7 @@
             "open_issues": 133,
             "owner": "scdl-org",
             "repo": "scdl",
-            "stars": 4187,
+            "stars": 4190,
             "topics": [
               "downloader",
               "music",
@@ -7515,7 +7494,7 @@
                 "open_issues": 78,
                 "owner": "mxrch",
                 "repo": "GHunt",
-                "stars": 19881,
+                "stars": 19883,
                 "topics": [
                   "google",
                   "hideandsec",
@@ -7690,7 +7669,7 @@
                 "open_issues": 118,
                 "owner": "facebookarchive",
                 "repo": "python-instagram",
-                "stars": 3072,
+                "stars": 3073,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:43.000Z"
@@ -8024,6 +8003,27 @@
         },
         {
           "children": [],
+          "description": "IMAP/SMTP sync system with modern APIs. ❗️AGPL-3.0",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "description": ":incoming_envelope: IMAP/SMTP sync system with modern APIs",
+            "homepage": "https://nylas.com/docs/platform",
+            "id": 15943682,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-06-25T18:21:11Z",
+            "open_issues": 69,
+            "owner": "nylas",
+            "repo": "sync-engine",
+            "stars": 3490,
+            "topics": []
+          },
+          "title": "sync-engine",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "Mail hosting made simple. ISC",
           "node_type": "item",
           "repo_info": {
@@ -8033,11 +8033,11 @@
             "id": 9469271,
             "language": "Python",
             "license": "ISC",
-            "last_commit": "2026-11-19T13:28:54Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-20T19:32:55Z",
+            "open_issues": 40,
             "owner": "modoboa",
             "repo": "modoboa",
-            "stars": 3540,
+            "stars": 3539,
             "topics": [
               "django",
               "dmarc",
@@ -8057,27 +8057,6 @@
             ]
           },
           "title": "modoboa",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "IMAP/SMTP sync system with modern APIs. ❗️AGPL-3.0",
-          "node_type": "item",
-          "repo_info": {
-            "archived": true,
-            "description": ":incoming_envelope: IMAP/SMTP sync system with modern APIs",
-            "homepage": "https://nylas.com/docs/platform",
-            "id": 15943682,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-06-25T18:21:11Z",
-            "open_issues": 69,
-            "owner": "nylas",
-            "repo": "sync-engine",
-            "stars": 3490,
-            "topics": []
-          },
-          "title": "sync-engine",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -8129,7 +8108,7 @@
                 "open_issues": 64,
                 "owner": "charlierguo",
                 "repo": "gmail",
-                "stars": 1810,
+                "stars": 1809,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:43.000Z"
@@ -8260,10 +8239,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-19T11:03:58Z",
-            "open_issues": 169,
+            "open_issues": 170,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 65507,
+            "stars": 65518,
             "topics": [
               "crawler",
               "crawling",
@@ -8289,8 +8268,8 @@
             "id": 160789418,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T00:14:43Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-20T12:57:25Z",
+            "open_issues": 12,
             "owner": "facelessuser",
             "repo": "soupsieve",
             "stars": 274,
@@ -8321,7 +8300,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T23:56:41Z",
-            "open_issues": 121,
+            "open_issues": 123,
             "owner": "kurtmckee",
             "repo": "feedparser",
             "stars": 2457,
@@ -8334,48 +8313,6 @@
             ]
           },
           "title": "feedparser",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "Python & Command-line tool to gather text and metadata on the.. Apache-2",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML",
-            "homepage": "https://trafilatura.readthedocs.io",
-            "id": 180136168,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:51:23Z",
-            "open_issues": 66,
-            "owner": "adbar",
-            "repo": "trafilatura",
-            "stars": 7155,
-            "topics": [
-              "article-extractor",
-              "corpus-builder",
-              "corpus-tools",
-              "crawler",
-              "html-to-markdown",
-              "html2text",
-              "llm",
-              "news-aggregator",
-              "news-crawler",
-              "nlp",
-              "rag",
-              "readability",
-              "rss-feed",
-              "scraping",
-              "tei",
-              "text-cleaning",
-              "text-extraction",
-              "text-mining",
-              "text-preprocessing",
-              "web-scraping"
-            ]
-          },
-          "title": "trafilatura",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -8410,6 +8347,48 @@
         },
         {
           "children": [],
+          "description": "Python & Command-line tool to gather text and metadata on the.. Apache-2",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML",
+            "homepage": "https://trafilatura.readthedocs.io",
+            "id": 180136168,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-20T16:40:50Z",
+            "open_issues": 65,
+            "owner": "adbar",
+            "repo": "trafilatura",
+            "stars": 7158,
+            "topics": [
+              "article-extractor",
+              "corpus-builder",
+              "corpus-tools",
+              "crawler",
+              "html-to-markdown",
+              "html2text",
+              "llm",
+              "news-aggregator",
+              "news-crawler",
+              "nlp",
+              "rag",
+              "readability",
+              "rss-feed",
+              "scraping",
+              "tei",
+              "text-cleaning",
+              "text-extraction",
+              "text-mining",
+              "text-preprocessing",
+              "web-scraping"
+            ]
+          },
+          "title": "trafilatura",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "Web path scanner. ❗️GPL-2.0",
           "node_type": "item",
           "repo_info": {
@@ -8423,7 +8402,7 @@
             "open_issues": 25,
             "owner": "maurosoria",
             "repo": "dirsearch",
-            "stars": 15101,
+            "stars": 15104,
             "topics": [
               "appsec",
               "brute",
@@ -8518,7 +8497,7 @@
             "open_issues": 9,
             "owner": "Gerapy",
             "repo": "Gerapy",
-            "stars": 3517,
+            "stars": 3518,
             "topics": [
               "dashboard",
               "distributed",
@@ -8649,7 +8628,7 @@
                 "open_issues": 382,
                 "owner": "soimort",
                 "repo": "you-get",
-                "stars": 56847,
+                "stars": 56850,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:43.000Z"
@@ -8694,7 +8673,7 @@
                 "open_issues": 513,
                 "owner": "codelucas",
                 "repo": "newspaper",
-                "stars": 15190,
+                "stars": 15191,
                 "topics": [
                   "crawler",
                   "crawling",
@@ -8722,7 +8701,7 @@
                 "open_issues": 62,
                 "owner": "s0md3v",
                 "repo": "Photon",
-                "stars": 13373,
+                "stars": 13375,
                 "topics": [
                   "crawler",
                   "information-gathering",
@@ -8778,7 +8757,7 @@
                 "open_issues": 2,
                 "owner": "alirezamika",
                 "repo": "autoscraper",
-                "stars": 8100,
+                "stars": 8102,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -8910,7 +8889,7 @@
                 "open_issues": 1,
                 "owner": "lorien",
                 "repo": "grab",
-                "stars": 2461,
+                "stars": 2460,
                 "topics": [
                   "asynchronous",
                   "crawler",
@@ -9096,7 +9075,7 @@
                 "open_issues": 16,
                 "owner": "maxhumber",
                 "repo": "gazpacho",
-                "stars": 770,
+                "stars": 769,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:43.000Z"
@@ -9221,11 +9200,11 @@
             "id": 873328,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T09:05:32Z",
-            "open_issues": 2259,
+            "last_commit": "2026-11-21T08:05:21Z",
+            "open_issues": 2239,
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 45800,
+            "stars": 45806,
             "topics": [
               "apm",
               "crash-reporting",
@@ -9258,11 +9237,11 @@
             "id": 185478926,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T02:22:19Z",
-            "open_issues": 441,
+            "last_commit": "2026-11-20T22:33:21Z",
+            "open_issues": 443,
             "owner": "open-telemetry",
             "repo": "opentelemetry-python",
-            "stars": 2713,
+            "stars": 2715,
             "topics": [
               "correlationcontext",
               "distributed-tracing",
@@ -9345,11 +9324,11 @@
             "id": 11397939,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-13T03:54:38Z",
+            "last_commit": "2026-11-20T18:27:39Z",
             "open_issues": 449,
             "owner": "allinurl",
             "repo": "goaccess",
-            "stars": 21143,
+            "stars": 21144,
             "topics": [
               "analytics",
               "apache",
@@ -9411,11 +9390,11 @@
                 "id": 235901813,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T09:02:15Z",
-                "open_issues": 4477,
+                "last_commit": "2026-11-21T08:39:11Z",
+                "open_issues": 4453,
                 "owner": "PostHog",
                 "repo": "posthog",
-                "stars": 40981,
+                "stars": 40998,
                 "topics": [
                   "ab-testing",
                   "ai-analytics",
@@ -9574,7 +9553,7 @@
       "items": [
         {
           "children": [],
-          "description": "Streamlit A faster way to build and share data apps. Apache-2",
+          "description": "Streamlit The agent-native framework for data apps and dashboards. Apache-2",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -9583,11 +9562,11 @@
             "id": 204086862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T06:29:16Z",
-            "open_issues": 1193,
+            "last_commit": "2026-11-21T04:32:47Z",
+            "open_issues": 1191,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 46450,
+            "stars": 46464,
             "topics": [
               "agents",
               "business-intelligence",
@@ -9609,6 +9588,39 @@
         },
         {
           "children": [],
+          "description": "Create web-based user interfaces with Python. The nice way. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Create web-based user interfaces with Python. The nice way.",
+            "homepage": "https://nicegui.io",
+            "id": 365250183,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-20T17:16:38Z",
+            "open_issues": 34,
+            "owner": "zauberzeug",
+            "repo": "nicegui",
+            "stars": 16354,
+            "topics": [
+              "frontend",
+              "gui",
+              "interaction",
+              "interface",
+              "interfaces",
+              "python",
+              "robotics",
+              "scripting",
+              "toolkit",
+              "webapp",
+              "website"
+            ]
+          },
+          "title": "NiceGUI",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "Panel: The powerful data exploration & web app framework for Python. BSD-3",
           "node_type": "item",
           "repo_info": {
@@ -9618,8 +9630,8 @@
             "id": 145848899,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-20T09:03:40Z",
-            "open_issues": 768,
+            "last_commit": "2026-11-20T22:41:12Z",
+            "open_issues": 767,
             "owner": "holoviz",
             "repo": "panel",
             "stars": 5827,
@@ -9641,39 +9653,6 @@
             ]
           },
           "title": "Panel",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "Create web-based user interfaces with Python. The nice way. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Create web-based user interfaces with Python. The nice way.",
-            "homepage": "https://nicegui.io",
-            "id": 365250183,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-20T07:27:21Z",
-            "open_issues": 37,
-            "owner": "zauberzeug",
-            "repo": "nicegui",
-            "stars": 16351,
-            "topics": [
-              "frontend",
-              "gui",
-              "interaction",
-              "interface",
-              "interfaces",
-              "python",
-              "robotics",
-              "scripting",
-              "toolkit",
-              "webapp",
-              "website"
-            ]
-          },
-          "title": "NiceGUI",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -9754,7 +9733,7 @@
             "open_issues": 53,
             "owner": "wooey",
             "repo": "Wooey",
-            "stars": 2248,
+            "stars": 2249,
             "topics": [
               "data-science",
               "django",
@@ -9857,7 +9836,7 @@
                 "id": 4751958,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-17T23:27:04Z",
+                "last_commit": "2026-11-21T00:24:22Z",
                 "open_issues": 177,
                 "owner": "rafalp",
                 "repo": "Misago",
@@ -9885,8 +9864,8 @@
                 "id": 12751570,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T19:37:26Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-20T21:09:10Z",
+                "open_issues": 6,
                 "owner": "flaskbb",
                 "repo": "flaskbb",
                 "stars": 2661,
@@ -9943,11 +9922,11 @@
             "id": 46939,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T09:31:16Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-20T20:18:42Z",
+            "open_issues": 70,
             "owner": "django-commons",
             "repo": "django-debug-toolbar",
-            "stars": 8377,
+            "stars": 8378,
             "topics": []
           },
           "title": "django-debug-toolbar",
@@ -10027,8 +10006,8 @@
             "id": 530277810,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T16:38:30Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-21T01:32:48Z",
+            "open_issues": 28,
             "owner": "jowilf",
             "repo": "starlette-admin",
             "stars": 1070,
@@ -10278,11 +10257,11 @@
             "id": 26783295,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T06:56:48Z",
-            "open_issues": 233,
+            "last_commit": "2026-11-20T13:02:22Z",
+            "open_issues": 236,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44400,
+            "stars": 44402,
             "topics": [
               "ai",
               "ai-gateway",
@@ -10320,11 +10299,11 @@
             "id": 19537979,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T07:59:34Z",
-            "open_issues": 542,
+            "last_commit": "2026-11-20T22:53:44Z",
+            "open_issues": 545,
             "owner": "TykTechnologies",
             "repo": "tyk",
-            "stars": 10895,
+            "stars": 10897,
             "topics": [
               "ai",
               "ai-gateway",
@@ -10449,8 +10428,8 @@
             "id": 56553990,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T02:50:16Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-21T01:02:09Z",
+            "open_issues": 8,
             "owner": "pallets-eco",
             "repo": "flask-security",
             "stars": 698,
@@ -10545,8 +10524,8 @@
             "id": 123005291,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T15:25:27Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-20T21:50:12Z",
+            "open_issues": 58,
             "owner": "plangrid",
             "repo": "flask-rebar",
             "stars": 236,
@@ -10556,32 +10535,6 @@
             ]
           },
           "title": "flask-rebar",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "Basic JSON-RPC implementation for your Flask-powered.. BSD-3",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Basic JSON-RPC implementation for your Flask-powered sites",
-            "homepage": "https://flask-jsonrpc.readthedocs.io",
-            "id": 7169945,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T21:25:51Z",
-            "open_issues": 14,
-            "owner": "cenobites",
-            "repo": "flask-jsonrpc",
-            "stars": 292,
-            "topics": [
-              "flask",
-              "flask-extensions",
-              "jsonrpc",
-              "python"
-            ]
-          },
-          "title": "flask-jsonrpc",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -10615,6 +10568,32 @@
             ]
           },
           "title": "safrs",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
+          "description": "Basic JSON-RPC implementation for your Flask-powered.. BSD-3",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Basic JSON-RPC implementation for your Flask-powered sites",
+            "homepage": "https://flask-jsonrpc.readthedocs.io",
+            "id": 7169945,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-16T21:25:51Z",
+            "open_issues": 14,
+            "owner": "cenobites",
+            "repo": "flask-jsonrpc",
+            "stars": 292,
+            "topics": [
+              "flask",
+              "flask-extensions",
+              "jsonrpc",
+              "python"
+            ]
+          },
+          "title": "flask-jsonrpc",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -10769,8 +10748,8 @@
                 "id": 62584910,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T16:33:16Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-21T08:05:02Z",
+                "open_issues": 4,
                 "owner": "pallets-eco",
                 "repo": "flask-caching",
                 "stars": 932,
@@ -11249,7 +11228,7 @@
         },
         {
           "children": [],
-          "description": "This code generator creates FastAPI app from an.. MIT",
+          "description": "Unmaintained. Use datamodel-code-generator instead... MIT",
           "node_type": "item",
           "repo_info": {
             "archived": true,
@@ -11383,7 +11362,7 @@
                 "open_issues": 66,
                 "owner": "awtkns",
                 "repo": "fastapi-crudrouter",
-                "stars": 1697,
+                "stars": 1698,
                 "topics": [
                   "api",
                   "async",
@@ -11739,10 +11718,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-19T18:25:38Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "django-import-export",
             "repo": "django-import-export",
-            "stars": 3333,
+            "stars": 3335,
             "topics": [
               "csv",
               "django",
@@ -11770,7 +11749,7 @@
             "open_issues": 93,
             "owner": "django-money",
             "repo": "django-money",
-            "stars": 1770,
+            "stars": 1769,
             "topics": [
               "django",
               "money",
@@ -11822,7 +11801,7 @@
             "open_issues": 0,
             "owner": "django-mptt",
             "repo": "django-mptt",
-            "stars": 2965,
+            "stars": 2966,
             "topics": []
           },
           "title": "django-mptt",
@@ -11839,8 +11818,8 @@
             "id": 142779680,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T00:06:58Z",
-            "open_issues": 101,
+            "last_commit": "2026-11-21T02:12:41Z",
+            "open_issues": 100,
             "owner": "typeddjango",
             "repo": "django-stubs",
             "stars": 1984,
@@ -11868,7 +11847,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-17T12:36:08Z",
-            "open_issues": 161,
+            "open_issues": 163,
             "owner": "vitalik",
             "repo": "django-ninja",
             "stars": 9250,
@@ -11919,7 +11898,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-11T05:06:47Z",
-            "open_issues": 133,
+            "open_issues": 136,
             "owner": "django-commons",
             "repo": "django-model-utils",
             "stars": 2760,
@@ -12058,7 +12037,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-11T05:08:26Z",
-            "open_issues": 116,
+            "open_issues": 117,
             "owner": "django-commons",
             "repo": "django-taggit",
             "stars": 3442,
@@ -12100,7 +12079,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-15T22:11:37Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "matthewwithanm",
             "repo": "django-imagekit",
             "stars": 2351,
@@ -12136,27 +12115,6 @@
         },
         {
           "children": [],
-          "description": "Tweak the form field rendering in templates, not in.. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.",
-            "homepage": null,
-            "id": 3630931,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-24T17:21:38Z",
-            "open_issues": 54,
-            "owner": "django-commons",
-            "repo": "django-widget-tweaks",
-            "stars": 2158,
-            "topics": []
-          },
-          "title": "django-widget-tweaks",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
           "description": "A simple app that provides django integration for RQ (Redis Queue). MIT",
           "node_type": "item",
           "repo_info": {
@@ -12166,8 +12124,8 @@
             "id": 4334538,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T04:52:45Z",
-            "open_issues": 115,
+            "last_commit": "2026-11-21T08:03:51Z",
+            "open_issues": 114,
             "owner": "rq",
             "repo": "django-rq",
             "stars": 1951,
@@ -12215,6 +12173,34 @@
         },
         {
           "children": [],
+          "description": "Rosetta is a Django application that eases the translation.. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Rosetta is a Django application that eases the translation process of your Django projects",
+            "homepage": null,
+            "id": 1904815,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-14T08:16:47Z",
+            "open_issues": 55,
+            "owner": "mbi",
+            "repo": "django-rosetta",
+            "stars": 1155,
+            "topics": [
+              "django",
+              "gettext",
+              "i18n",
+              "internationalization",
+              "python",
+              "translation"
+            ]
+          },
+          "title": "django-rosetta",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "Bootstrap 4 integration with Django. BSD-3",
           "node_type": "item",
           "repo_info": {
@@ -12249,7 +12235,7 @@
             "id": 157137780,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T03:43:49Z",
+            "last_commit": "2026-11-20T22:31:11Z",
             "open_issues": 57,
             "owner": "typeddjango",
             "repo": "djangorestframework-stubs",
@@ -12375,14 +12361,35 @@
             "id": 1843992,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T17:05:30Z",
-            "open_issues": 157,
+            "last_commit": "2026-11-21T00:26:12Z",
+            "open_issues": 150,
             "owner": "django-commons",
             "repo": "django-pipeline",
             "stars": 1538,
             "topics": []
           },
           "title": "django-pipeline",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
+          "description": "Easy thumbnails for Django. BSD-3",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Easy thumbnails for Django",
+            "homepage": "http://easy-thumbnails.readthedocs.org/",
+            "id": 330557,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-05-06T21:53:06Z",
+            "open_issues": 105,
+            "owner": "SmileyChris",
+            "repo": "easy-thumbnails",
+            "stars": 1408,
+            "topics": []
+          },
+          "title": "easy-thumbnails",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -12413,51 +12420,23 @@
         },
         {
           "children": [],
-          "description": "Easy thumbnails for Django. BSD-3",
+          "description": "A helper for organizing Django project settings by.. BSD-3",
           "node_type": "item",
           "repo_info": {
             "archived": false,
-            "description": "Easy thumbnails for Django",
-            "homepage": "http://easy-thumbnails.readthedocs.org/",
-            "id": 330557,
+            "description": "A helper for organizing Django project settings by relying on well established programming patterns.",
+            "homepage": "https://django-configurations.readthedocs.io/",
+            "id": 5133993,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-05-06T21:53:06Z",
-            "open_issues": 105,
-            "owner": "SmileyChris",
-            "repo": "easy-thumbnails",
-            "stars": 1408,
+            "last_commit": "2026-11-11T05:09:45Z",
+            "open_issues": 66,
+            "owner": "jazzband",
+            "repo": "django-configurations",
+            "stars": 1136,
             "topics": []
           },
-          "title": "easy-thumbnails",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "Rosetta is a Django application that eases the.. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Rosetta is a Django application that eases the translation process of your Django projects",
-            "homepage": null,
-            "id": 1904815,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-14T08:16:47Z",
-            "open_issues": 55,
-            "owner": "mbi",
-            "repo": "django-rosetta",
-            "stars": 1155,
-            "topics": [
-              "django",
-              "gettext",
-              "i18n",
-              "internationalization",
-              "python",
-              "translation"
-            ]
-          },
-          "title": "django-rosetta",
+          "title": "django-configurations",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -12483,6 +12462,27 @@
             ]
           },
           "title": "django-csp",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
+          "description": "Tweak the form field rendering in templates, not in.. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.",
+            "homepage": null,
+            "id": 3630931,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T17:21:38Z",
+            "open_issues": 54,
+            "owner": "django-commons",
+            "repo": "django-widget-tweaks",
+            "stars": 2158,
+            "topics": []
+          },
+          "title": "django-widget-tweaks",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -12570,27 +12570,6 @@
         },
         {
           "children": [],
-          "description": "A helper for organizing Django project settings by.. BSD-3",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A helper for organizing Django project settings by relying on well established programming patterns.",
-            "homepage": "https://django-configurations.readthedocs.io/",
-            "id": 5133993,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-11-11T05:09:45Z",
-            "open_issues": 66,
-            "owner": "jazzband",
-            "repo": "django-configurations",
-            "stars": 1136,
-            "topics": []
-          },
-          "title": "django-configurations",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
           "description": "Media-Management with Grappelli. BSD-3",
           "node_type": "item",
           "repo_info": {
@@ -12650,8 +12629,8 @@
             "id": 71686939,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T04:04:20Z",
-            "open_issues": 109,
+            "last_commit": "2026-11-20T14:59:21Z",
+            "open_issues": 107,
             "owner": "soynatan",
             "repo": "django-easy-audit",
             "stars": 846,
@@ -12699,8 +12678,8 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T07:07:32Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-20T10:02:13Z",
+            "open_issues": 7,
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 190,
@@ -12728,11 +12707,11 @@
                 "id": 12115269,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-20T02:22:40Z",
-                "open_issues": 100,
+                "last_commit": "2026-11-21T01:08:07Z",
+                "open_issues": 102,
                 "owner": "cookiecutter",
                 "repo": "cookiecutter-django",
-                "stars": 13638,
+                "stars": 13639,
                 "topics": [
                   "boilerplate",
                   "celery",
@@ -12828,7 +12807,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2023-10-19T01:09:56Z",
-                "open_issues": 106,
+                "open_issues": 107,
                 "owner": "awesto",
                 "repo": "django-shop",
                 "stars": 3318,
@@ -12901,7 +12880,7 @@
                 "open_issues": 121,
                 "owner": "django-compressor",
                 "repo": "django-compressor",
-                "stars": 2868,
+                "stars": 2869,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:19:43.000Z"
@@ -13020,7 +12999,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T13:29:53Z",
-                "open_issues": 107,
+                "open_issues": 108,
                 "owner": "jieter",
                 "repo": "django-tables2",
                 "stars": 2008,
@@ -13442,7 +13421,7 @@
             "open_issues": 105,
             "owner": "pallets",
             "repo": "jinja",
-            "stars": 11826,
+            "stars": 11827,
             "topics": [
               "jinja",
               "jinja2",
@@ -13453,6 +13432,63 @@
             ]
           },
           "title": "jinja",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
+          "description": "Scapy: the Python-based interactive packet manipulation program &.. ❗️GPL-2.0",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Scapy: the Python-based interactive packet manipulation program & library.",
+            "homepage": "https://scapy.net",
+            "id": 43509302,
+            "language": "Python",
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-20T20:37:20Z",
+            "open_issues": 141,
+            "owner": "secdev",
+            "repo": "scapy",
+            "stars": 12707,
+            "topics": [
+              "network",
+              "network-analysis",
+              "network-discovery",
+              "network-security",
+              "network-visualization",
+              "packet-analyser",
+              "packet-capture",
+              "packet-crafting",
+              "packet-sniffer",
+              "pcap",
+              "python",
+              "scapy",
+              "security",
+              "security-tools"
+            ]
+          },
+          "title": "scapy",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
+          "description": "Mako Templates for Python. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Mako Templates for Python",
+            "homepage": "https://www.makotemplates.org",
+            "id": 159240758,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-22T20:54:46Z",
+            "open_issues": 59,
+            "owner": "sqlalchemy",
+            "repo": "mako",
+            "stars": 464,
+            "topics": []
+          },
+          "title": "Mako",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -13479,42 +13515,6 @@
             ]
           },
           "title": "idna",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "Scapy: the Python-based interactive packet manipulation program &.. ❗️GPL-2.0",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Scapy: the Python-based interactive packet manipulation program & library.",
-            "homepage": "https://scapy.net",
-            "id": 43509302,
-            "language": "Python",
-            "license": "GPL-2.0",
-            "last_commit": "2026-11-19T01:09:08Z",
-            "open_issues": 141,
-            "owner": "secdev",
-            "repo": "scapy",
-            "stars": 12704,
-            "topics": [
-              "network",
-              "network-analysis",
-              "network-discovery",
-              "network-security",
-              "network-visualization",
-              "packet-analyser",
-              "packet-capture",
-              "packet-crafting",
-              "packet-sniffer",
-              "pcap",
-              "python",
-              "scapy",
-              "security",
-              "security-tools"
-            ]
-          },
-          "title": "scapy",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -13603,27 +13603,6 @@
         },
         {
           "children": [],
-          "description": "Mako Templates for Python. MIT",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Mako Templates for Python",
-            "homepage": "https://www.makotemplates.org",
-            "id": 159240758,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-22T20:54:46Z",
-            "open_issues": 59,
-            "owner": "sqlalchemy",
-            "repo": "mako",
-            "stars": 464,
-            "topics": []
-          },
-          "title": "Mako",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
           "description": "(Python Distribution) A carefully curated collection of Root.. MPL-2.0",
           "node_type": "item",
           "repo_info": {
@@ -13633,11 +13612,11 @@
             "id": 3060959,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T06:50:39Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-20T23:36:39Z",
+            "open_issues": 6,
             "owner": "certifi",
             "repo": "python-certifi",
-            "stars": 1033,
+            "stars": 1034,
             "topics": []
           },
           "title": "certifi",
@@ -13672,6 +13651,47 @@
         },
         {
           "children": [],
+          "description": "CTF framework and exploit development library. MIT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "CTF framework and exploit development library",
+            "homepage": "http://pwntools.com",
+            "id": 9750233,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-20T13:33:13Z",
+            "open_issues": 119,
+            "owner": "Gallopsled",
+            "repo": "pwntools",
+            "stars": 13878,
+            "topics": [
+              "assembly",
+              "bsd",
+              "capture-the-flag",
+              "ctf",
+              "ctf-framework",
+              "defcon",
+              "exploit",
+              "hacktoberfest",
+              "linux",
+              "pwnable",
+              "pwntools",
+              "python",
+              "python2",
+              "python3",
+              "rop",
+              "shellcode",
+              "shellcode-development",
+              "shellcoding",
+              "wargame"
+            ]
+          },
+          "title": "pwntools",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "web3: A Python library for interacting with Ethereum. MIT",
           "node_type": "item",
           "repo_info": {
@@ -13682,7 +13702,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-30T16:36:05Z",
-            "open_issues": 190,
+            "open_issues": 191,
             "owner": "ApeWorX",
             "repo": "web3.py",
             "stars": 5542,
@@ -13702,11 +13722,11 @@
             "id": 3342046,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-20T08:33:03Z",
-            "open_issues": 383,
+            "last_commit": "2026-11-21T02:44:23Z",
+            "open_issues": 382,
             "owner": "RDFLib",
             "repo": "rdflib",
-            "stars": 2564,
+            "stars": 2565,
             "topics": [
               "graph",
               "json-ld",
@@ -13731,6 +13751,38 @@
             ]
           },
           "title": "rdflib",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
+          "description": "Read and write TIFF files. BSD-3",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Read and write TIFF files.",
+            "homepage": "https://pypi.org/project/tifffile",
+            "id": 242422272,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-17T03:40:21Z",
+            "open_issues": 2,
+            "owner": "cgohlke",
+            "repo": "tifffile",
+            "stars": 675,
+            "topics": [
+              "format-reader",
+              "image",
+              "imagej",
+              "life-sciences-image",
+              "numpy",
+              "ome-tiff",
+              "python",
+              "tiff",
+              "whole-slide-imaging",
+              "zarr"
+            ]
+          },
+          "title": "tifffile",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -13784,38 +13836,6 @@
         },
         {
           "children": [],
-          "description": "Read and write TIFF files. BSD-3",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Read and write TIFF files.",
-            "homepage": "https://pypi.org/project/tifffile",
-            "id": 242422272,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-11-17T03:40:21Z",
-            "open_issues": 2,
-            "owner": "cgohlke",
-            "repo": "tifffile",
-            "stars": 675,
-            "topics": [
-              "format-reader",
-              "image",
-              "imagej",
-              "life-sciences-image",
-              "numpy",
-              "ome-tiff",
-              "python",
-              "tiff",
-              "whole-slide-imaging",
-              "zarr"
-            ]
-          },
-          "title": "tifffile",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
           "description": "HTTP Request & Response Service, written in Python + Flask. ISC",
           "node_type": "item",
           "repo_info": {
@@ -13829,7 +13849,7 @@
             "open_issues": 0,
             "owner": "postmanlabs",
             "repo": "httpbin",
-            "stars": 13636,
+            "stars": 13639,
             "topics": [
               "api",
               "http",
@@ -13855,11 +13875,11 @@
             "id": 26908699,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-20T08:41:11Z",
+            "last_commit": "2026-11-20T22:02:31Z",
             "open_issues": 14,
             "owner": "r0x0r",
             "repo": "pywebview",
-            "stars": 6173,
+            "stars": 6175,
             "topics": [
               "cef",
               "cocoa",
@@ -13955,11 +13975,11 @@
             "id": 3559019,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T08:26:39Z",
-            "open_issues": 462,
+            "last_commit": "2026-11-21T08:27:58Z",
+            "open_issues": 448,
             "owner": "WeblateOrg",
             "repo": "weblate",
-            "stars": 6176,
+            "stars": 6178,
             "topics": [
               "continuous-localization",
               "crowdsourcing",
@@ -13976,6 +13996,32 @@
             ]
           },
           "title": "weblate",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
+          "description": "A simple CalDAV (calendar) and CardDAV (contact) server. ❗️GPL-3.0",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "A simple CalDAV (calendar) and CardDAV (contact) server.",
+            "homepage": "https://radicale.org",
+            "id": 2189967,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-20T18:01:04Z",
+            "open_issues": 13,
+            "owner": "Kozea",
+            "repo": "Radicale",
+            "stars": 5235,
+            "topics": [
+              "caldav",
+              "carddav",
+              "icalendar",
+              "python"
+            ]
+          },
+          "title": "Radicale",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -13997,32 +14043,6 @@
             "topics": []
           },
           "title": "webassets",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "A simple CalDAV (calendar) and CardDAV (contact) server. ❗️GPL-3.0",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A simple CalDAV (calendar) and CardDAV (contact) server.",
-            "homepage": "https://radicale.org",
-            "id": 2189967,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-20T06:50:45Z",
-            "open_issues": 13,
-            "owner": "Kozea",
-            "repo": "Radicale",
-            "stars": 5232,
-            "topics": [
-              "caldav",
-              "carddav",
-              "icalendar",
-              "python"
-            ]
-          },
-          "title": "Radicale",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -14150,10 +14170,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-19T23:06:01Z",
-            "open_issues": 215,
+            "open_issues": 214,
             "owner": "pyload",
             "repo": "pyload",
-            "stars": 3916,
+            "stars": 3915,
             "topics": [
               "cyberlocker",
               "ddl",
@@ -14175,32 +14195,6 @@
             ]
           },
           "title": "pyload",
-          "first_seen": "2026-08-28T13:19:43.000Z"
-        },
-        {
-          "children": [],
-          "description": "Watch (parts of) webpages and get notified when something changes.. BSD-3",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.",
-            "homepage": "https://thp.io/2008/urlwatch/",
-            "id": 16354416,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-07-10T08:56:34Z",
-            "open_issues": 85,
-            "owner": "thp",
-            "repo": "urlwatch",
-            "stars": 3147,
-            "topics": [
-              "automation",
-              "monitor",
-              "python",
-              "webpage"
-            ]
-          },
-          "title": "urlwatch",
           "first_seen": "2026-08-28T13:19:43.000Z"
         },
         {
@@ -14236,6 +14230,32 @@
         },
         {
           "children": [],
+          "description": "Watch (parts of) webpages and get notified when something changes.. BSD-3",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.",
+            "homepage": "https://thp.io/2008/urlwatch/",
+            "id": 16354416,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-07-10T08:56:34Z",
+            "open_issues": 85,
+            "owner": "thp",
+            "repo": "urlwatch",
+            "stars": 3146,
+            "topics": [
+              "automation",
+              "monitor",
+              "python",
+              "webpage"
+            ]
+          },
+          "title": "urlwatch",
+          "first_seen": "2026-08-28T13:19:43.000Z"
+        },
+        {
+          "children": [],
           "description": "Saleor Core: the high performance, composable, headless.. BSD-3",
           "node_type": "item",
           "repo_info": {
@@ -14245,11 +14265,11 @@
             "id": 8162715,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T13:17:09Z",
+            "last_commit": "2026-11-20T13:32:17Z",
             "open_issues": 315,
             "owner": "saleor",
             "repo": "saleor",
-            "stars": 23588,
+            "stars": 23593,
             "topics": [
               "cart",
               "checkout",
@@ -14316,11 +14336,11 @@
             "id": 38067078,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T11:31:49Z",
+            "last_commit": "2026-11-20T11:56:44Z",
             "open_issues": 56,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10535,
+            "stars": 10538,
             "topics": [
               "cron",
               "cron-jobs",
@@ -14347,11 +14367,11 @@
                 "id": 26516210,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T01:29:25Z",
-                "open_issues": 188,
+                "last_commit": "2026-11-20T21:33:57Z",
+                "open_issues": 186,
                 "owner": "certbot",
                 "repo": "certbot",
-                "stars": 33341,
+                "stars": 33343,
                 "topics": [
                   "acme",
                   "acme-client",
@@ -14379,53 +14399,12 @@
                 "open_issues": 38,
                 "owner": "sivel",
                 "repo": "speedtest-cli",
-                "stars": 14030,
+                "stars": 14031,
                 "topics": [
                   "python",
                   "python-library",
                   "python-script",
                   "speedtest"
-                ]
-              },
-              "first_seen": "2026-08-28T13:19:43.000Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pwntools",
-              "description": "CTF framework and exploit development library. MIT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CTF framework and exploit development library",
-                "homepage": "http://pwntools.com",
-                "id": 9750233,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-17T19:53:24Z",
-                "open_issues": 121,
-                "owner": "Gallopsled",
-                "repo": "pwntools",
-                "stars": 13874,
-                "topics": [
-                  "assembly",
-                  "bsd",
-                  "capture-the-flag",
-                  "ctf",
-                  "ctf-framework",
-                  "defcon",
-                  "exploit",
-                  "hacktoberfest",
-                  "linux",
-                  "pwnable",
-                  "pwntools",
-                  "python",
-                  "python2",
-                  "python3",
-                  "rop",
-                  "shellcode",
-                  "shellcode-development",
-                  "shellcoding",
-                  "wargame"
                 ]
               },
               "first_seen": "2026-08-28T13:19:43.000Z"
@@ -14446,7 +14425,7 @@
                 "open_issues": 7,
                 "owner": "stamparm",
                 "repo": "maltrail",
-                "stars": 8661,
+                "stars": 8660,
                 "topics": [
                   "attack-detection",
                   "intrusion-detection",
@@ -14472,11 +14451,11 @@
                 "id": 1985358,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T04:46:49Z",
+                "last_commit": "2026-11-21T00:29:57Z",
                 "open_issues": 2834,
                 "owner": "twisted",
                 "repo": "twisted",
-                "stars": 6009,
+                "stars": 6010,
                 "topics": [
                   "async",
                   "async-python",
@@ -14512,7 +14491,7 @@
                 "open_issues": 166,
                 "owner": "arachnys",
                 "repo": "cabot",
-                "stars": 5676,
+                "stars": 5675,
                 "topics": [
                   "alerting",
                   "devops",
@@ -14565,7 +14544,7 @@
                 "open_issues": 106,
                 "owner": "constverum",
                 "repo": "ProxyBroker",
-                "stars": 4176,
+                "stars": 4175,
                 "topics": [
                   "anonymity",
                   "anonymous",
@@ -14687,7 +14666,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-11T13:54:25Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "rthalley",
                 "repo": "dnspython",
                 "stars": 2695,
@@ -14792,7 +14771,7 @@
                 "id": 16899445,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-20T02:37:42Z",
+                "last_commit": "2026-11-20T09:35:33Z",
                 "open_issues": 13,
                 "owner": "marshmallow-code",
                 "repo": "webargs",
@@ -14874,7 +14853,7 @@
                 "open_issues": 96,
                 "owner": "twisted",
                 "repo": "klein",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "async",
                   "async-python",
@@ -15047,14 +15026,14 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 26 hidden projects..."
+          "title": "Show 25 hidden projects..."
         }
       ],
       "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:05:36.712Z",
+    "last_updated": "2026-11-21T08:42:47.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  A ranked list of awesome python libraries for web development. Updated weekly.",
@@ -15062,11 +15041,11 @@
       "id": 327002257,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-11-19T23:15:42Z",
-      "open_issues": 30,
+      "last_commit": "2026-11-20T15:44:10Z",
+      "open_issues": 29,
       "owner": "ml-tooling",
       "repo": "best-of-web-python",
-      "stars": 2785,
+      "stars": 2784,
       "topics": [
         "api",
         "awesome",
@@ -15090,7 +15069,7 @@
         "web-development"
       ]
     },
-    "original_repository_sha": "2f66ec4a2a49ebbacd3b33e6905f2008c176d95d",
+    "original_repository_sha": "18f84d6e9b90b2519baed5214df73d1a646e4341",
     "enhanced_repository": "enhansome/enhansome-best-of-web-python",
     "enhanced_repository_description": null,
     "title": "Awesome best of web python with stars"
